@@ -47,5 +47,8 @@ def get_spending(agency_id, year=2018):
 
 Now that we have the functions from `project.py` we can access the data in `madison.csv`
 
+First I tested my functions, setting the IDs of `Streets` and `Library` to variables and getting the spending for `library_id` in 2017:
+
+<img src="img/Get Spending For Streets" width="400">
 
 
